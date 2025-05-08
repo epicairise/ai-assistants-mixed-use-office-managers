@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "STAN AI",
+    "slug": "stan-ai",
+    "description": "An AI assistant that automates resident inquiries and admin tasks, freeing up property managers to focus on higher-impact work.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/stan-ai.jpg",
+    "target_audience_match": "Perfect for overworked building managers drowning in tenant emails and routine requests.",
+    "price": "Contact for pricing",
+    "data-link": "https://www.stan.ai/"
+  },
+  {
+    "position": 2,
+    "name": "EliseAI",
+    "slug": "eliseai",
+    "description": "Conversational AI built to streamline communication and operations, helping building managers keep up with tenant demands effortlessly.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/eliseai.jpg",
+    "target_audience_match": "Great for managers juggling too many workflows who need a digital assistant that just gets it done.",
+    "price": "Contact for pricing",
+    "data-link": "https://www.eliseai.com/"
+  },
+  {
+    "position": 3,
+    "name": "BrainBox AI",
+    "slug": "brainbox-ai",
+    "description": "AI for real-time HVAC optimization—cutting energy costs and emissions without extra hardware installs.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/brainbox-ai.jpg",
+    "target_audience_match": "Ideal for eco-conscious managers under pressure to reduce utility bills and carbon footprints.",
+    "price": "Contact for pricing",
+    "data-link": "https://brainboxai.com/en/"
+  },
+  {
+    "position": 4,
+    "name": "AppFolio Realm-X",
+    "slug": "appfolio-realm-x",
+    "description": "A full-stack AI property platform that automates leases, finances, and communication for smoother daily ops.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/appfolio-realm-x.jpg",
+    "target_audience_match": "Perfect for hands-on managers tired of switching between spreadsheets and inboxes all day.",
+    "price": "Contact for pricing",
+    "data-link": "https://www.appfolio.com/"
+  },
+  {
+    "position": 5,
+    "name": "OfficeSpace Software",
+    "slug": "officespace-software",
+    "description": "AI-powered space planning that helps office managers get the most from every square foot and keep teams flowing smoothly.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/officespace-software.jpg",
+    "target_audience_match": "Great for office leads trying to make hybrid work... work.",
+    "price": "Contact for pricing",
+    "data-link": "https://www.officespacesoftware.com/"
+  }
+]
